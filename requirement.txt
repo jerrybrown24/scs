@@ -1,7 +1,7 @@
 streamlit>=1.36
 pandas>=2.2
 numpy>=1.26
-plotly
+plotly>=5.0.0
 openpyxl>=3.1
 python-pptx>=0.6.22
 kaleido>=0.2.1
